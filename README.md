@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-NLP Course assignments
+NLP Course Programming Assignments
