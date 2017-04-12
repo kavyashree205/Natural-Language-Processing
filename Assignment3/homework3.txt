@@ -1,0 +1,23 @@
+Problem 6.2.   Due September 30th(Friday) 4:00 pm
+
+Your program should work under commendline
+
+Python program.py <sequence>
+
+instructions:
+
+1. Your program will be tested using the two sequences given in the problem, and some random sequences as well. The random sequences will be very similar to the given sequence(it will still be 9 numbers and a permutation of 1,2,3).
+
+2. You can hard-coded the hidden Markov model in Fig. 6.3 inside your program. 
+
+If you have any questions about homework, feel free to come to my office hour.
+
+Monday 1:00pm to 2:00pm,
+
+Friday 3:00pm to 4:00pm ECSS 3.417
+
+Certainly. It is on page 213. Make sure you have the Second edition of the book.
+
+Problem 6.2 says
+
+"Implement the Viterbi algorithm and run it with the HMM in figure 6.3 to compute the most likely weather sequences for each of the two observation sequences 331122313 and 331123312.  "
